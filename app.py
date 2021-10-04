@@ -1,4 +1,4 @@
-import img_function 
+import img_function as *
 import streamlit as st
 from PIL import Image
 import cv2
